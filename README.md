@@ -1,6 +1,4 @@
-# **Data Science Bootcamp Batch 9
-**
-
+# Data Science Bootcamp Batch 9
 
 ## First part if the program
 
